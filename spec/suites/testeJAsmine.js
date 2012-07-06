@@ -1,4 +1,5 @@
 describe('Exibicao da mensagem de boas-vindas', function(){
+    
     beforeEach(function(){
         setFixtures('<div id="mensagem" />');
         this.mensagem = $('#mensagem');
